@@ -26,7 +26,7 @@ const Header: React.FC = () => {
         </Link>
       </h1>
       <a
-        href="https://github.com/twbs/examples/tree/main/react-nextjs/"
+        href="https://github.com/fengsy97/Gpu-database-web"
         target="_blank"
         rel="noopener"
       >
