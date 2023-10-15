@@ -3,7 +3,7 @@ const Footer: React.FC = () => {
     <footer>
       <hr className="mt-5 mb-4" />
       <p className="text-muted">
-        Created by the Cun Tutu.
+        Infinity is unknown data.
       </p>
     </footer>
   );
