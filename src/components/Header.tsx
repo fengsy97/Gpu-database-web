@@ -25,13 +25,13 @@ const Header: React.FC = () => {
           <span>GPU Database</span>
         </Link>
       </h1>
-      <a
+      {/* <a
         href="https://github.com/fengsy97/Gpu-database-web"
         target="_blank"
         rel="noopener"
       >
         View on GitHub
-      </a>
+      </a> */}
     </header>
   );
 };
